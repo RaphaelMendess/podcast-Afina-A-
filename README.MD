@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-e2cc-61f6-8c07-eb47ac82c604/raw?se=2025-05-05T00%3A48%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=66d1ee2d-c7da-5642-815b-f5fb1137b089&skoid=3f3a9132-9530-48ef-96b7-fee5a811733f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-04T22%3A57%3A08Z&ske=2025-05-05T22%3A57%3A08Z&sks=b&skv=2024-08-04&sig=tpyDabOxjFBv7XDm5ro9ryjN6h%2BFXozEUi4GkdcpvK0%3D"
     width="300"
 />
 </p>
